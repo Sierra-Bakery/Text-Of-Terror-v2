@@ -10,14 +10,23 @@ Overview:
 Aspects:
     World
         Follow something easy and low polly, since that seems to be the type of game people are liking more now. But this does not have to be forever.
+        Since you will be in the inside of computer parts I will have to think of a way to make the world feel large but yet not enclosed with a roof.
+        Large megastructures will be cool but probably only for the main mission or the biggest levels.
     Fighting
         Create sprites with AI combat intelegence for diffucility and randomness aspect.
         The attackers will have different abilities and in those even more abilities and difference in looks, fighting manner, etc.
         Attackers will have to be somehow created as physical forms of computer problems, 'bugs', 'viruses', etc.
         Make creation design sketches before making anything, see what looks good vs what does not.
+        Every attacker will have identifying properties so you know what type of attacker it is, but they will all have differnt looks and characteristics.
     Levels
         Will make the storyline a heap longer and more interactive, this also includes making side quests, and optional things to do.
-    Misc
+    Playthrough
+        The start will show Sgt. Bitmonger and Nurse Yranib sending you into a computer that they have on a table, you will be strapped down to a medical table and then wormhole
+        to the computer, this will show a world inside a computer and will have a place for you to rest and consider as home. There will be shops and Wheel of Fortune.
+        You get binaries or power as a money system, your health will be in the form of code or something along those lines, the more damage that you take, the harder it is to
+        control yourself, you will loose functionaliy of certian things, for example moving left or jumping or even accessing inventory. If you die in the computer too many times
+        then you will loose functionaliy of your body in real life. This could be represented as you waking up and the 2 characters at the start looking upset then they get rid of
+        you (murked) saying 'there goes another one'.
         
 
 
