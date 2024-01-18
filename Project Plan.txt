@@ -1,0 +1,27 @@
+Applications used:
+    VSC
+    Unity
+
+Overview:
+    Text Of Terror v2 (Will find better name) will be a replica of 'Text Of Terror' game made by me previously.
+    Version 2 will be 3d and open world, there will be the story line and side quests in a computer based scene.
+    ToTv2 will pretty much be the recreation of ToT with a little more spice and depth.
+
+Aspects:
+    World
+        Follow something easy and low polly, since that seems to be the type of game people are liking more now. But this does not have to be forever.
+    Fighting
+        Create sprites with AI combat intelegence for diffucility and randomness aspect.
+        The attackers will have different abilities and in those even more abilities and difference in looks, fighting manner, etc.
+        Attackers will have to be somehow created as physical forms of computer problems, 'bugs', 'viruses', etc.
+        Make creation design sketches before making anything, see what looks good vs what does not.
+    Levels
+        Will make the storyline a heap longer and more interactive, this also includes making side quests, and optional things to do.
+    Misc
+        
+
+
+
+This is my first ever game made that is not text based, this is going to be a challenge and I am doing this to gain knowledge in game design and making,
+without doing the school course, this means that I can go at my own speed and also additionally I will publish this on steam if I think that it is good enough
+to see if I can make any money or more credability from it. :)
